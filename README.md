@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Neos Yazılım Akademi'de öğrenciyim. Yazılıma yeni başladımm.
+
 <!--
 **cevikfurkan/cevikfurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
